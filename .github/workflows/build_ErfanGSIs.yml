@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16th%2F9.21.11.18%2Fcn_beta%2F20211117221528%2F4e7af307%2Fupdate.zip
-  ROM_NAME: Meizu 16th
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215152213/7409c020/update.zip
+  ROM_NAME: Meizu18pro
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
