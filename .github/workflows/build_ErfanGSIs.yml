@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16th%2F9.21.11.18%2Fcn_beta%2F20211117221528%2F4e7af307%2Fupdate.zip
-  ROM_NAME: Meizu16th
+  ROM_NAME: Meizu 16th
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
