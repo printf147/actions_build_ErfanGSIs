@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215152213/7409c020/update.zip
+  ROM_URL: http://download.meizu.com/Firmware/Flyme/meizu18_Pro/9.2.4.2/cn/20211215152213/7409c020/update.zip
   ROM_NAME: Meizu18pro
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
